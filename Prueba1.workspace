@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Prueba1" Database="" Version="10000">
+  <Project Name="Ejemplo-01" Path="HolaMundo/HolaMundo.project" Active="No"/>
+  <Project Name="Ejemplo-02" Path="Ejemplo-02/Ejemplo-02.project" Active="Yes"/>
+  <Project Name="Ejemplo-03" Path="Ejemplo-3/Ejemplo-3.project" Active="No"/>
+  <Project Name="Ejemplo-04" Path="Ejemplo-04/Ejemplo-04.project" Active="No"/>
+  <Project Name="Ejemplo-05" Path="Ejemplo-05/Ejemplo-05.project" Active="No"/>
+  <Project Name="Ejemplo-06" Path="Ejemplo-06/Ejemplo-06.project" Active="No"/>
+  <Project Name="Ejemplo-07" Path="Ejemplo-07/Ejemplo-07.project" Active="No"/>
+  <Project Name="Ejemplo-08" Path="Ejemplo-08/Ejemplo-08.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ejemplo-01" ConfigName="Debug"/>
+      <Project Name="Ejemplo-02" ConfigName="Debug"/>
+      <Project Name="Ejemplo-03" ConfigName="Debug"/>
+      <Project Name="Ejemplo-04" ConfigName="Debug"/>
+      <Project Name="Ejemplo-05" ConfigName="Debug"/>
+      <Project Name="Ejemplo-06" ConfigName="Debug"/>
+      <Project Name="Ejemplo-07" ConfigName="Debug"/>
+      <Project Name="Ejemplo-08" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Ejemplo-01" ConfigName="Release"/>
+      <Project Name="Ejemplo-02" ConfigName="Release"/>
+      <Project Name="Ejemplo-03" ConfigName="Release"/>
+      <Project Name="Ejemplo-04" ConfigName="Release"/>
+      <Project Name="Ejemplo-05" ConfigName="Release"/>
+      <Project Name="Ejemplo-06" ConfigName="Release"/>
+      <Project Name="Ejemplo-07" ConfigName="Release"/>
+      <Project Name="Ejemplo-08" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
